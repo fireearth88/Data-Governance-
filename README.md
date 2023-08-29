@@ -1,4 +1,4 @@
-# Data-Governance-
+## Data-Governance-
 Insights on journey of implementing the Data Governance Model
 
 The journey commenced with an evaluation of the existing data management framework, leading to the identification of critical gaps and opportunities. 
