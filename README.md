@@ -1,3 +1,18 @@
+
+# What is Data Governance?
+
+### Bringing data under control and leeping it secure and consistent with rules, processes and accountability that allow the organization to better manage the availability, usability, security and integrity of the corporate data sources.
+
+# Key reasons why we need Data Governance
+
+### 1. Secure data
+### 2. Ensure compliance with regulations and data privacy laws
+### 3. Improve the data quality
+### 4. Avoid inconsistent data silos
+### 5. Improve trust in the data
+### 6. Better decision making
+### 7. Improve efficiency
+
 # Journey of Implementing Data Governance Model
 ### Maturing Progress
 
