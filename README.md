@@ -35,13 +35,7 @@ This captures the essence of data governance: bringing data under control while 
 
 # Key reasons why we need Data Governance
 
-### 1. Secure data
-### 2. Ensure compliance with regulations and data privacy laws
-### 3. Improve the data quality
-### 4. Avoid inconsistent data silos
-### 5. Improve trust in the data
-### 6. Better decision making
-### 7. Improve efficiency
+![DG_Model](/assets/why_DG.png) 
 
 # Principles for Data Governance
 The diagram (i.e. source:KIK Consulting) below shows how a policy can be built upon from the core principles that are supported by the dimensions of data quality. 
