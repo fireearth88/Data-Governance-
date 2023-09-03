@@ -15,7 +15,9 @@
 
 # Principles for Data Governance
 The diagram (i.e. source:KIK Consulting) below shows how a policy can be built upon from the core principles that are supported by the dimensions of data quality. 
+
 ![DG_Model](/assets/DG_principles.jpg) 
+
 
 To faciliate easy recall, each primciple is paired with a catchy phrase, presented in adjacent bubbles to KISS (i.e. Keep It Simple & Straighforward) the Data Governance concepts, in articulating the objectives of a long-lasting Data Governance program. 
 
