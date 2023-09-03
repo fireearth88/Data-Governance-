@@ -120,6 +120,7 @@ We can consider data governance as a holistic framework, where data quality is a
 
 ### The dimensions of data quality
 
+![DG_Model](/assets/DQ_Dimensions.png) 
 
 # Journey of Implementing Data Governance Model
 ### Maturing Progress
