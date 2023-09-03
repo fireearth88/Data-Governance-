@@ -14,6 +14,9 @@
 ### 7. Improve efficiency
 
 
+## Data Quality
+
+### The dimensions of data quality
 
 
 # Principles for Data Governance
@@ -35,42 +38,42 @@ Accurate, timely data are the critical foundation for effective decision-making 
 #### Consequences: 
 To maintain the integrity of this asset, it's crucial to meticulously manage data. This involves ensuring clear definitions, appropriate access, and proper controls. Both the management and the staff should be able to depend on data's accuracy and have access to it whenever and wherever it is necessary.
 
-### Principle 2: Data must have clearly defined accountability.
+## Principle 2: Data must have clearly defined accountability.
 
-Tagline - "Data Governance: A Collective Duty"
+### Tagline - "Data Governance: A Collective Duty"
 
-Justification:
+#### Justification:
 Data often possesses organizational value that transcends the scope of any single application. The company needs data to be available for enterprise-wide sharing and integration, in compliance with existing security and privacy policies. To facilitate sharing, the data must be clearly defined and its meaning should be universally understood across the enterprise.
 
 Broadening data accessibility contributes to more efficient and effective decision-making, while also enabling swift responses to informational requests and the delivery of services.
 
-Consequences: 
+#### Consequences: 
 By embracing shared data, the company can enhance decision-making quality. Maintaining a singular, reliable data source is more cost-efficient than managing multiple, inconsistent datasets. Data will be more in line with cross-departmental needs, and discrepancies in data syntax and semantics between different databases will be reduced. Applications will also be more easily portable. Furthermore, changes in data management can be implemented with minimal disruption to existing applications, adapting to evolving requirements or conditions.
 
 To ensure data security, safeguards against unauthorized usage and disclosure must be in place. This involves implementing specific processes, protocols, and automated techniques. Access to data should only be made via well-defined interfaces to guarantee its correct understanding and utilization.
 
 For successful data sharing, the Data Governance Team, Data Domain Stewards, and business sectors must collectively establish, adhere to, and disseminate a uniform set of definitions, policies, and standards. Standardized definitions serve as the bedrock for system interfaces and data exchanges, and a common lexicon amplifies the value of these definitions.
 
-### Principle 3: Data must be managed to follow internal & external rules.
+## Principle 3: Data must be managed to follow internal & external rules.
 
-Tagline - Avoid Risk & Compliance Issues
+### Tagline - Avoid Risk & Compliance Issues
 
-Justification:
+#### Justification:
 Existing laws and regulations mandate the protection, security, and privacy of personally identifiable information. While fostering open data sharing and controlled accessibility, it's crucial to also limit the exposure of restricted, confidential, or sensitive data.
 Data Domain Stewards, acting as Data Owners, are responsible for maintaining data quality, defining data attributes, ensuring security and privacy, standardizing data, and overseeing its proper use within their domain.
 
-Consequences: 
+#### Consequences: 
 For enhanced data quality and value, as well as risk and compliance mitigation, clear rules and accountabilities for data definition, creation, and utilization must be established, managed, and communicated.
 
 The Data Governance Team is tasked with documenting and disseminating information about roles and responsibilities across the organization.
 
 The Data Governance Team must collaborate with various business sectors to make sure that applicable laws and regulations are documented and communicated to the relevant departments.
 
-### Principle 4: Data quality must be defined & managed consistently across the data life cycle.
+## Principle 4: Data quality must be defined & managed consistently across the data life cycle.
 
-Tagline - "Get It Right, From Start to Finish"
+### Tagline - "Get It Right, From Start to Finish"
 
-Justification:
+#### Justification:
 The quality standards for data must be well defined to be able to identify, record, measure, and report the quality of the data.
 
 The quality standards will focus on measuring business process and decision-making improvements from complete, relevant, and unique data.
@@ -79,7 +82,7 @@ Enterprise-critical data must be tested against the standards consistently acros
 
 Data Owners, in the role of Domain Stewards, are accountable for data standard definitions and appropriate use of the standards for data in their domain.
 
-Consequences: 
+#### Consequences: 
 To improve data quality, the Data Governance Team, with the cooperation of the Data Domain Stewards and the business areas, must develop, abide by, and communicate a common set of standards.
 
 Common data standards are the foundation for quality systems interfaces and data use. A common place to record data standards will increase ability to improve the quality of the data.
