@@ -112,7 +112,11 @@ We can consider data governance as a holistic framework, where data quality is a
 
 ![DG_Model](/assets/DQ_DG.png) 
 
-### The dimensions of data quality
+### What are the Data Quality Dimensions?
+
+#### Data Quality Dimensions means the different ways in which the data quality can be measured. 
+
+The global standard defines the six data quality dimensions as shown in the following diagram. 
 
 ![DG_Model](/assets/DQ_Dimensions.png) 
 
