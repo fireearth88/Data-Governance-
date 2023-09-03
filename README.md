@@ -114,6 +114,7 @@ Common data standards are the foundation for quality systems interfaces and data
 
 ## A Data Governance framework supports Data Quality initatives
 
+We can consider data governance as a holistic framework, where data quality is an integral component of the broader data governance strategy. 
 
 
 ### The dimensions of data quality
