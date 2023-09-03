@@ -5,7 +5,7 @@
 
 ### Using an analogy to drive key concepts around Data Governance
 
-![DG_Model](/assets/DG_concepts.png 
+![DG_Model](/assets/DG_concepts.jpg) 
 
 Think of Data Governance as the blueprint before reconstructing a modern house, deculttering and organizing a long-inhabited family home for over three decades.   
 
