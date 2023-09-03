@@ -23,7 +23,7 @@ Similarly, in data governance, this is the Classification stage. It involves tag
 ### Step 3 & 4: Policy & Rules
 After sorting came decision-making. My family and I set guidelines for what to keep, donate, or discard. For example, toys missing parts were donated in the hope they'd find new life elsewhere. This act of laying down the law in the data universe is Policy and Rules Enforcement. For instance, all personally identifiable information (PII), like Social Security numbers, must be obscured or masked as per the rule that helps enforce this policy.
 
-### Step 5: Netadata (i.e. Sorting and Labeling)
+### Step 5: Metadata (i.e. Sorting and Labeling)
 What came next was reorganizing what I chose to keep, storing them in well-labeled bins.
 
 In the data world, this is analogous to Metadata, which serves as a "table of contents" for your data assets. It tells you what the data is, where it came from, and how it can be used—akin to a library's card catalog describing a book.
