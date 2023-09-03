@@ -1,7 +1,7 @@
 
 # What is Data Governance?
 
-### Bringing data under control and keeping it secure and consistent with rules, processes and accountability that allow the organization to better manage the availability, usability, security and integrity of the corporate data sources.
+#### Bringing data under control and keeping it secure and consistent with rules, processes and accountability that allow the organization to better manage the availability, usability, security and integrity of the corporate data sources.
 
 ### Using an analogy to drive key concepts around Data Governance
 
@@ -116,6 +116,7 @@ Common data standards are the foundation for quality systems interfaces and data
 
 We can consider data governance as a holistic framework, where data quality is an integral component of the broader data governance strategy. 
 
+![DG_Model](/assets/DQ_DG.png) 
 
 ### The dimensions of data quality
 
