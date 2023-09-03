@@ -10,20 +10,20 @@ Think of Data Governance as the blueprint before reconstructing a modern house, 
 
 ![DG_Model](/assets/DG_concepts.png) 
 
-#### Step 1: Discovery
+### Step 1: Discovery
 Sorting through everything was like embarking on a treasure hunt; it wasn't just about identifying what's there but also discovering hidden gems or challenges.
 
 In the data world, this initial step is known as Data Discovery. It's about cataloging all the different types of data you hold, whether stored on local servers, in the cloud, or even in third-party software as a service (SaaS) applications. Easy enough for data you're aware of, but the real trick lies in uncovering the data you don't even know you have.
 
-#### Step 2: Classification
+### Step 2: Classification
 Once I had sifted through each room of my family home, the next step was categorization. Whether it was nostalgic photos, ancient toys, or crucial financial documents, everything had to be sorted.
 
 Similarly, in data governance, this is the Classification stage. It involves tagging each data set—be it customer information, product metrics, or financial statements—with a relevant label to make future reference more streamlined.
 
-#### Step 3 & 4: Policy & Rules
+### Step 3 & 4: Policy & Rules
 After sorting came decision-making. My family and I set guidelines for what to keep, donate, or discard. For example, toys missing parts were donated in the hope they'd find new life elsewhere. This act of laying down the law in the data universe is Policy and Rules Enforcement. For instance, all personally identifiable information (PII), like Social Security numbers, must be obscured or masked as per the rule that helps enforce this policy.
 
-#### Step 5: Netadata (i.e. Sorting and Labeling)
+### Step 5: Netadata (i.e. Sorting and Labeling)
 What came next was reorganizing what I chose to keep, storing them in well-labeled bins.
 
 In the data world, this is analogous to Metadata, which serves as a "table of contents" for your data assets. It tells you what the data is, where it came from, and how it can be used—akin to a library's card catalog describing a book.
