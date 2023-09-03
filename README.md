@@ -13,6 +13,9 @@
 ### 6. Better decision making
 ### 7. Improve efficiency
 
+
+
+
 # Principles for Data Governance
 The diagram (i.e. source:KIK Consulting) below shows how a policy can be built upon from the core principles that are supported by the dimensions of data quality. 
 
@@ -21,15 +24,15 @@ The diagram (i.e. source:KIK Consulting) below shows how a policy can be built u
 
 To faciliate easy recall, each primciple is paired with a catchy phrase, presented in adjacent bubbles to KISS (i.e. Keep It Simple & Straighforward) the Data Governance concepts, in articulating the objectives of a long-lasting Data Governance program. 
 
-### Principle 1: Data must be recognized as a valued & strategic enterprise asset.
+## Principle 1: Data must be recognized as a valued & strategic enterprise asset.
 
-Tagline - Transitioning From "My Data" to "Our Data"
+### Tagline - Transitioning From "My Data" to "Our Data"
 
-Justification:
+#### Justification:
 Data serves as an invaluable asset to the organization. 
 Accurate, timely data are the critical foundation for effective decision-making and customer service at the company.
 
-Consequences: 
+#### Consequences: 
 To maintain the integrity of this asset, it's crucial to meticulously manage data. This involves ensuring clear definitions, appropriate access, and proper controls. Both the management and the staff should be able to depend on data's accuracy and have access to it whenever and wherever it is necessary.
 
 ### Principle 2: Data must have clearly defined accountability.
