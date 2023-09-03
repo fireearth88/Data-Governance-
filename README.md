@@ -1,7 +1,7 @@
 
 # What is Data Governance?
 
-### Bringing data under control and leeping it secure and consistent with rules, processes and accountability that allow the organization to better manage the availability, usability, security and integrity of the corporate data sources.
+### Bringing data under control and keeping it secure and consistent with rules, processes and accountability that allow the organization to better manage the availability, usability, security and integrity of the corporate data sources.
 
 # Key reasons why we need Data Governance
 
