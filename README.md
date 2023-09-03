@@ -43,12 +43,6 @@ This captures the essence of data governance: bringing data under control while 
 ### 6. Better decision making
 ### 7. Improve efficiency
 
-
-## Data Quality
-
-### The dimensions of data quality
-
-
 # Principles for Data Governance
 The diagram (i.e. source:KIK Consulting) below shows how a policy can be built upon from the core principles that are supported by the dimensions of data quality. 
 
@@ -116,6 +110,14 @@ Data Owners, in the role of Domain Stewards, are accountable for data standard d
 To improve data quality, the Data Governance Team, with the cooperation of the Data Domain Stewards and the business areas, must develop, abide by, and communicate a common set of standards.
 
 Common data standards are the foundation for quality systems interfaces and data use. A common place to record data standards will increase ability to improve the quality of the data.
+
+
+## A Data Governance framework supports Data Quality initatives
+
+
+
+### The dimensions of data quality
+
 
 # Journey of Implementing Data Governance Model
 ### Maturing Progress
