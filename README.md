@@ -120,6 +120,18 @@ The global standard defines the six data quality dimensions as shown in the foll
 
 ![DG_Model](/assets/DQ_Dimensions.png) 
 
+
+### How does Data Quality Rules related to Data Quality Dimensions?
+
+Understainding the dimensions of data quality does not offer a detailed picture of what "good" data should look like to fulfill the requirements of those various dimensions. The criteria are usually laid out in what are commonly known as "Data Quality Rules," or "Business Rules" or "Data Validation Rules". 
+
+Essentially, Data Quality Rules are the practical business guidelines applied to data to ensure it meets an acceptable standard of quality. These rules act as an operational blueprint for both attaining and sustaining a high quality of data. 
+
+Hence, Data Quality Rules serve as the actionable framework for achieving and maintaining high levels of data quality. 
+
+![DG_Model](/assets/DQ_rules.png) 
+
+
 # Journey of Implementing Data Governance Model
 ### Maturing Progress
 
