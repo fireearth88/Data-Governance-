@@ -135,7 +135,7 @@ Hence, Data Quality Rules serve as the actionable framework for achieving and ma
 
 Data quality techniques are the methods used to ensure that a dataset meets high standards of quality (i.e. reliable, accurate and actionable) that benefits almost every aspect of a business, from day-to-day oeprations to long-term strategic planning. The diagram below shows the commonly used data quality techniques. 
 
-![DG_Model](/assets/DQ_techniques.png) 
+![DG_Model](/assets/DQ_tech.png) 
 
 
 # Journey of Implementing Data Governance Model
