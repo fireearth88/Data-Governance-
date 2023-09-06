@@ -137,6 +137,10 @@ Data quality techniques are the methods used to ensure that a dataset meets high
 
 ![DG_Model](/assets/DQ_tech.png) 
 
+### Use cases on how Data Profiling benefits different stakeholders
+
+![DG_Model](/assets/DQ_Profile.png) 
+
 
 # Journey of Implementing Data Governance Model
 ### Maturing Progress
